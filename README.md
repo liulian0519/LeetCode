@@ -1,5 +1,5 @@
 ﻿
-</style>
+
 # LeetCode
 |Number|Title|TitleSource|Language|Difficulty|CodeSource|
 |:---|:---|:---|:---|:---|:---|
