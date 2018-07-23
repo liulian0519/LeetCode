@@ -1,4 +1,4 @@
-解法一： 
+one： 
 var maxArea = function(height) {
    var i,j;
     var maxarea=0;
@@ -10,7 +10,7 @@ var maxArea = function(height) {
     return maxarea;
 };
 
-解法二：
+two：
 /**
  * @param {number[]} height
  * @return {number}
