@@ -8,5 +8,5 @@
 |3|反转整数|https://leetcode-cn.com/problems/reverse-integer/description/|Javascript|简单|https://github.com/liulian0519/LeetCode/blob/master/%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0.js|
 |4|回文数|https://leetcode-cn.com/problems/palindrome-number/description/|Javascript|简单|https://github.com/liulian0519/LeetCode/blob/master/%E5%9B%9E%E6%96%87%E6%95%B0.js|
 |5|盛最多水的容器|https://leetcode-cn.com/problems/container-with-most-water/description/|Javascript|中等|https://github.com/liulian0519/LeetCode/blob/master/%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.txt|
-
+|6|1比特与2比特字符|https://leetcode-cn.com/problems/container-with-most-water/description/|Javascript|中等|https://github.com/liulian0519/LeetCode/blob/master/%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.txt|
 
