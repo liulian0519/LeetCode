@@ -14,3 +14,4 @@
 | 9| [回文数](https://leetcode-cn.com/problems/palindrome-number/description/) | [Javascript ](https://github.com/liulian0519/LeetCode/blob/master/%E5%9B%9E%E6%96%87%E6%95%B0.js)|简单 |  |
 | 697| [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/description/) | [Javascript ](https://github.com/liulian0519/LeetCode/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.txt)|简单 |  |
 | 11| [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/description/) | [Javascript ](https://github.com/liulian0519/LeetCode/blob/master/%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.txt)|中等 | [博客详解](https://blog.csdn.net/liu0415111/article/details/81165529) |
+| 258| [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [C ](https://github.com/liulian0519/LeetCode/blob/master/%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.txt)|中等 | [博客详解](https://blog.csdn.net/liu0415111/article/details/81165529) |

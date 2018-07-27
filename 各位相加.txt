@@ -1,0 +1,18 @@
+int addDigits(int num) {
+    int sum = 0;
+	int numBit = 0;
+	while(1) {
+		while(num) {
+			numBit = num%10;
+			sum += numBit;
+			num /=10;
+		}
+		if(sum<10) {
+			break;
+		}
+		num = sum;
+		sum = 0;
+	}
+	return sum;
+
+}
